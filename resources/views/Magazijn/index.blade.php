@@ -11,12 +11,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet" />
 
   <style>
-    /* =========================================================
-       Magazijn – matcht het thema van Allergenen (blauw/violet)
-       en behoudt klikbaarheid van alle elementen.
-       ========================================================= */
 
-    /* --- Tokens --- */
     :root{
       --surface:#ffffff;
       --surface-2:#f9fafc;
@@ -25,8 +20,8 @@
       --muted:#667085;
       --border:rgba(2,6,23,.10);
 
-      --brand-1:#4f46e5; /* indigo-600 */
-      --brand-2:#7c3aed; /* violet-600 */
+      --brand-1:red ; /* indigo-600 */
+      --brand-2:black; /* violet-600 */
       --ring:rgba(79,70,229,.28);
 
       --thead-from:#f6f7ff;
