@@ -16,11 +16,6 @@
     <!-- Styles -->
     <style>
       body {
-        /* ✅ Achtergrondafbeelding */
-        background-image: url("https://mecaluxnl.cdnwm.com/documents/20128/441291/Zona+expedicion-Almac%C3%A9n+empresa+distribuci%C3%B3n-es_ES.jpg/ca7e829b-1d94-ccaa-5dcb-72dfc21c4991?t=1563271123000&e=jpg");
-        background-size: cover;
-        background-position: center;
-        background-attachment: fixed;
         margin: 0;
         font-family: 'Instrument Sans', sans-serif;
         color: #1b1b18;
@@ -94,7 +89,7 @@
 
       main p {
         font-size: 1rem;
-        color: #333;
+        color: white;
         line-height: 1.6;
       }
 
