@@ -138,7 +138,7 @@
     </header>
 
     <main>
-      <h1>Welkom bij het Magazijnportaal</h1>
+      <h1>Welkom bij het Magazijn</h1>
       <p>
         Beheer eenvoudig je magazijn, allergenen en distributieprocessen vanuit één centrale omgeving.
         Gebruik de navigatie bovenaan om naar de gewenste sectie te gaan.
