@@ -95,7 +95,7 @@
 
       @media (prefers-color-scheme: dark) {
         body::before {
-          background: rgba(0, 0, 0, 0.6);
+          background: white;
         }
 
         main {
@@ -104,12 +104,12 @@
         }
 
         nav a {
-          color: #f2f2f2;
-          border-color: rgba(255, 255, 255, 0.2);
+          color: black;
+          border-color: grey;
         }
 
         nav a:hover {
-          background: rgba(255, 255, 255, 0.15);
+          background: grey;
         }
       }
     </style>
